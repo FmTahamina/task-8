@@ -1,0 +1,144 @@
+/* Header */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.body{
+    width: 1440px;
+    text-align: center;
+    height: 3750px;
+    
+    padding: auto;
+    margin: auto;
+
+   
+}
+.Header{
+    width: 1440px;
+   background-color: blue;
+    height: 677px;
+    
+}
+.head{
+    display:flex;
+    
+    
+
+
+}
+.btn{
+    margin-top: 20px;
+}
+.bt{
+    background-color:red;
+    border:none;
+    margin-left: 855px;
+    height:44px ;
+    width: 168px;
+    font-size: 16px;
+    color: white;
+}
+.link{
+    margin-left:15px;
+    font-size: ;
+   
+    padding-left: 20px;
+   
+    
+
+}
+.link a{
+    text-decoration: none;
+    font-size: 16px;
+    color: white; 
+    
+}
+.link a:hover{
+    color: red;
+}
+.img-part{
+    display: flex;
+    padding-left: 156px;
+    padding-top:49px;
+     padding-right: 140.99px;
+     font-size: 20px;
+
+}
+.part{
+    padding-top:40px;
+}
+.imgs{
+    padding-left:102px;
+    
+}
+.imgs img{
+width: 550.01px;
+height:438px;
+padding-left:98px;
+padding-top: 67px;
+}
+.btn-2{
+    background-color:red;
+    border:none;
+    height:44px ;
+    width: 168px;
+    font-size: 16px;
+    color: white;
+}
+
+/* Card section */
+
+.min{
+display: grid;
+grid-template-columns: repeat(3,1fr);
+
+
+}
+.min-div{
+    width: 327px;
+    height:476px;
+    box-shadow: 2px 2px 2px 2px;
+    margin-top: 70px;
+    margin-left: 70px;
+}
+.card img{
+    width: 300px;
+    height: 256px;
+
+}
+.detail{
+   
+}
+/* HAll Highlights */
+
+
+.match{
+   display:flex;
+   
+   margin-top: 50px;
+    
+}
+.dtls{
+    padding-left: 70px;
+    font-size:35px;
+    padding-top: 80px;
+}
+.math-div{
+    margin-top:30px;
+}
+.math-div img{
+    width:px;
+    height: 400px;
+   padding-top: 90px;
+    padding-left:69px;
+    
+}
+/* Foodball */
+.ftr{
+    padding-top: 50px;
+    
+}
+.ftr img{
+height:180px ;
+width:400px ;
+
+}
