@@ -37,6 +37,7 @@ body{
 }
 .bt:hover{
     color: blue;
+    background-color: white;
 }
 .link{
     margin-left:15px;
