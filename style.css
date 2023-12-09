@@ -6,7 +6,6 @@ body{
     width: 1440px;
     text-align: center;
     height: 3750px;
-    
     padding: auto;
     margin: auto;
 
@@ -14,7 +13,7 @@ body{
 }
 .Header{
     width: 1440px;
-   background-color: blue;
+   background-color: navy;
     height: 677px;
     
 }
@@ -59,7 +58,7 @@ body{
     display: flex;
     padding-left: 156px;
     padding-top:49px;
-     padding-right: 140.99px;
+     padding-right: 150px;
      font-size: 20px;
 
 }
