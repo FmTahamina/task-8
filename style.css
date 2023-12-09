@@ -11,6 +11,8 @@ body{
 
    
 }
+
+
 .Header{
     width: 1440px;
    background-color: navy;
@@ -19,9 +21,6 @@ body{
 }
 .head{
     display:flex;
-    
-    
-
 
 }
 .btn{
@@ -35,6 +34,9 @@ body{
     width: 168px;
     font-size: 16px;
     color: white;
+}
+.bt:hover{
+    color: blue;
 }
 .link{
     margin-left:15px;
