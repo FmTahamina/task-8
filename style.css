@@ -1,6 +1,6 @@
 /* Header */
 body{
-    font-family: 'Poppins', sans-serif;
+     font-family: 'Poppins', sans-serif;
 }
 .body{
     width: 1440px;
@@ -8,6 +8,7 @@ body{
     height: 3750px;
     padding: auto;
     margin: auto;
+    background-color:aliceblue;
 
    
 }
@@ -139,6 +140,8 @@ grid-template-columns: repeat(3,1fr);
 /* Foodball */
 .ftr{
     padding-top: 50px;
+    padding-right: 50px ;
+    padding-left: 50px;
     
 }
 .ftr img{
@@ -146,3 +149,41 @@ height:180px ;
 width:400px ;
 
 }
+/* Media Queries */
+@media screen and (max-width: 750px){
+        
+    .Header{
+       
+       display: grid;
+       grid-template-columns: repeat(1,1fr);
+
+    }
+  
+    
+}
+@media screen and (max-width: 750px){
+        
+    .main{
+       
+       display: grid;
+       grid-template-columns: repeat(1,1fr);
+
+    }
+  
+    
+}
+@media screen and (max-width: 750px){
+
+    .match{
+       
+       display: grid;
+       grid-template-columns: repeat(1,1fr);
+
+    }
+  
+    
+}
+    
+
+
+     
